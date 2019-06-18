@@ -1,0 +1,10 @@
+.masquemaj{
+    display: flex;
+    background-color: lightslategrey;
+    opacity: 0.9;
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
